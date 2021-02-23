@@ -10,4 +10,10 @@
     - https://github.com/ghtea/data-scenery/blob/master/src/components/Global/Input/InputEmail.tsx
     - https://github.com/ghtea/data-scenery/blob/master/src/tools/hooks/useInputBasic.ts
 
-## 2. 
+## 2. Movie Seat Booking
+
+- 영화, 좌석 클릭하면, 좌석수 \* 영화 티켓 가격 계산, 선택중인 좌석 표시
+
+## 3. Movie Seat Booking
+
+-
