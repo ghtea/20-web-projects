@@ -8,3 +8,6 @@
   - 내 이전 프로젝트 참고
     - https://github.com/ghtea/data-scenery/blob/master/src/components/Main/LogIn.tsx
     - https://github.com/ghtea/data-scenery/blob/master/src/components/Global/Input/InputEmail.tsx
+    - https://github.com/ghtea/data-scenery/blob/master/src/tools/hooks/useInputBasic.ts
+
+## 2. 
