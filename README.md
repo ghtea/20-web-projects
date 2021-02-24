@@ -16,4 +16,9 @@
 
 ## 3. Movie Seat Booking
 
--
+- 비디오를 재생, 일시정지, 정지
+- 비디오의 시간 조절, UI에 시간변화 표시
+
+## 4. Exchange Rate
+
+## 5. DOM Array Methods
