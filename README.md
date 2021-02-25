@@ -25,7 +25,10 @@
 
 ## 6. Modal & Menu Slider
 
+## 7. Hangman Game
+
 ## More To Do
 
 - 휴대폰-데스크탑 대응 네비게이션
 - 드롭다운
+
