@@ -29,6 +29,10 @@
 
 ## 8. Meal Finder
 
+## 9. Expense Tracker
+
+## 10. Music Player
+
 ## More To Do
 
 - 휴대폰-데스크탑 대응 네비게이션
