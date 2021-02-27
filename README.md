@@ -33,6 +33,10 @@
 
 ## 10. Music Player
 
+## 11. Infinite Scrolling & Filter
+
+## 12. Speed Typer Typing Game
+
 ## More To Do
 
 - 휴대폰-데스크탑 대응 네비게이션
